@@ -2,10 +2,6 @@
 
 Trax = require('nez').objective 'Trax'
 
-    #
-    # a.k.a. crux (module name already taken)
-    #
-
 Trax
 
     class: 'Core Module - Introspection'

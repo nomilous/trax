@@ -1,4 +1,7 @@
 trax
 ====
 
-(Maintenance and) Introspection (UI overlay) 
+### Distributed System Introspection (UI overlay)
+
+W.T.effability
+
