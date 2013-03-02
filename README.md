@@ -1,4 +1,4 @@
 trax
 ====
 
-Maintenance and Introspection (UI overlay) 
+(Maintenance and) Introspection (UI overlay) 

@@ -1,0 +1,22 @@
+#!/usr/bin/env coffee
+
+Trax = require('nez').objective 'Trax'
+
+    #
+    # a.k.a. crux (module name already taken)
+    #
+
+Trax
+
+    class: 'Core Module - Introspection'
+
+    category: 'Maintainability'
+
+    description: """
+
+
+        W.T.effablility 
+
+
+    """, (feature) ->  
+
